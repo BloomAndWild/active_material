@@ -6,7 +6,7 @@
  * http://www.google.com/design/spec/style/typography.html#typography-typeface
  */
 
-WebFontConfig = {
+var WebFontConfig = {
   google: { families: [ 'RobotoDraft:regular,medium,bold,italic:latin' ] }
 };
 
